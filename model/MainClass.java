@@ -19,7 +19,5 @@ public class MainClass
 		//Insert candidate details
 		Factory.insertCandidateDetail();
 		Factory.getCandidateDetails();
-		String str = "java is programing language";
-		System.out.println(str.split(" ").length);
 	}
 }
